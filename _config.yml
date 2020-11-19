@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyunghun Kim"
-  avatar           : "kkh.jpg"
+  avatar           : "images/kkh.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
