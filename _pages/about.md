@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
+I am a Research at Vision and Display Systems Lab. I do research in computer vision and deep learning.
 
 Publications
 ======
+
 **Painting Outside as Inside: Edge Guided Image Outpainting via Bidirectional Rearrangement with Progressive Step Learning**<br/> **Kyunghun Kim**, Yeohun Yun, Keon-Woo Kang, Kyeongbo Kong, Siyeong Lee, Suk-Ju Kang <br/> WACV2021 [Paper](https://arxiv.org/abs/2010.01810)
 
