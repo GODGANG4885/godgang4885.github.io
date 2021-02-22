@@ -30,4 +30,5 @@ The grand prize, Yonsei learning group contest - 2017
 Scholarship
 ======
 Academic Excellence Scholarship - 2017
+
 Scholarship for the next generation of research - 2020
