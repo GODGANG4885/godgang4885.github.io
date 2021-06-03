@@ -13,7 +13,7 @@ I am currently a graduate student in Vision and Display Systems Lab, Sogang Univ
 Publications
 ======
 
-**Painting Outside as Inside: Edge Guided Image Outpainting via Bidirectional Rearrangement with Progressive Step Learning**<br/> **Kyunghun Kim**, Yeohun Yun, Keon-Woo Kang, Kyeongbo Kong, Siyeong Lee, Suk-Ju Kang <br/> WACV2021 [Paper](https://openaccess.thecvf.com/content/WACV2021/html/Kim_Painting_Outside_As_Inside_Edge_Guided_Image_Outpainting_via_Bidirectional_WACV_2021_paper.html)
+**Painting Outside as Inside: Edge Guided Image Outpainting via Bidirectional Rearrangement with Progressive Step Learning**<br/> **Kyunghun Kim**, Yeohun Yun, Keon-Woo Kang, Kyeongbo Kong, Siyeong Lee, Suk-Ju Kang <br/> WACV2021 [Paper](https://openaccess.thecvf.com/content/WACV2021/html/Kim_Painting_Outside_As_Inside_Edge_Guided_Image_Outpainting_via_Bidirectional_WACV_2021_paper.html) [project](https://godgang4885.github.io/Painting_Outside_as_Inside-POAI-/#abstract)
 
 
 **Selective Focusing Learning in Conditional GANs: A Closer Look in terms of Density of Data Manifold**<br/> **Kyeongbo Kong**\*, **Kyunghun Kim**\*, Suk-Ju Kang <br/> 
