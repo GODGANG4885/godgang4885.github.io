@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate student in Vision and Display Systems Lab, Sogang Univ. I do research in computer vision and deep learning.
+I am currently a graduate student in Vision and Display Systems Lab, Sogang Univ. I do research in computer vision and deep learning. [cv](../_data/cv_kkh.pdf)
 
 Publications
 ======
