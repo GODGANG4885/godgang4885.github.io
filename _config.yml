@@ -86,7 +86,7 @@ author:
 #   location         : "Location"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.kr/citations?hl=ko&view_op=list_works&authuser=2&gmla=AJsN-F5VZtuC6rUvP6pMa20AhFZwGAbZZ98Z-UFMjXTkZ5CN-d8y-dSD-7vvDBUAgcmigatNBdEwXEbnZhVosfoweeuD3IirkYxwmzwDLc10XwllcWKg_FKGzyWal_ZOTBF01qlGXV6F&user=ZGJ693YAAAAJ"
   email            : godgang@sogang.ac.kr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
