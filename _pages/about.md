@@ -17,6 +17,7 @@ Publications
 
 
 **Selective Focusing Learning in Conditional GANs**<br/> **Kyeongbo Kong**\*, **Kyunghun Kim**\*, Suk-Ju Kang <br/> 
+[paper](https://arxiv.org/abs/2107.08792) 
 [project](https://github.com/GODGANG4885/subset_selection_SFL) 
 
 
