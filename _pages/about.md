@@ -17,7 +17,7 @@ Publications
 
 
 **Selective Focusing Learning in Conditional GANs: A Closer Look in terms of Density of Data Manifold**<br/> **Kyeongbo Kong**\*, **Kyunghun Kim**\*, Suk-Ju Kang <br/> 
-
+[project](https://github.com/GODGANG4885/subset_selection_SFL) 
 
 
 
