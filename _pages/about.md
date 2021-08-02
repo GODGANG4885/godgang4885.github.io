@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate student in Vision and Display Systems Lab, Sogang Univ. I do research in computer vision and deep learning. [CV](_data/경험기술서_김경훈(general).pdf)
+I am currently a graduate student in Vision and Display Systems Lab, Sogang Univ. I do research in computer vision and deep learning. 
 <a href="godgang4885.github.io/_data/경험기술서_김경훈(general).pdf" target="_blank">CV.</a>
                                                                            
 Publications
