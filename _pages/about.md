@@ -18,7 +18,7 @@ Publications
 
 
 **Selective Focusing Learning in Conditional GANs**<br/> Kyeongbo Kong\*, **Kyunghun Kim**\*, Suk-Ju Kang <br/> 
-The 38th International Conference on Machine Learning Workshop (ICMLW) **spotlight**
+ICML Workshop 2021 **spotlight**
 [paper](https://arxiv.org/abs/2107.08792) 
 [project](https://github.com/GODGANG4885/subset_selection_SFL) 
 
