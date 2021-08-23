@@ -15,14 +15,13 @@ Publications
 ======
 **Image-Adaptive Hint Generation via Vision Transformer for Outpainting**<br/> **Kyunghun Kim\***, Daehyeon Kong\*, Kyeongbo Kong\*, Sung-Jun Min\*, Suk-Ju Kang  <br/> WACV2022 Submitted
 
-**Painting Outside as Inside: Edge Guided Image Outpainting via Bidirectional Rearrangement with Progressive Step Learning**<br/> **Kyunghun Kim**, Yeohun Yun, Keon-Woo Kang, Kyeongbo Kong, Siyeong Lee, Suk-Ju Kang <br/> WACV2021 [Paper](https://openaccess.thecvf.com/content/WACV2021/html/Kim_Painting_Outside_As_Inside_Edge_Guided_Image_Outpainting_via_Bidirectional_WACV_2021_paper.html) [project](https://godgang4885.github.io/Painting_Outside_as_Inside-POAI-/#abstract)
-
 
 **Selective Focusing Learning in Conditional GANs**<br/> **Kyunghun Kim**\*, Kyeongbo Kong\*,  Suk-Ju Kang <br/> 
 ICML Workshop 2021 **spotlight**
 [paper](https://arxiv.org/abs/2107.08792) 
 [project](https://github.com/GODGANG4885/subset_selection_SFL) 
 
+**Painting Outside as Inside: Edge Guided Image Outpainting via Bidirectional Rearrangement with Progressive Step Learning**<br/> **Kyunghun Kim**, Yeohun Yun, Keon-Woo Kang, Kyeongbo Kong, Siyeong Lee, Suk-Ju Kang <br/> WACV2021 [Paper](https://openaccess.thecvf.com/content/WACV2021/html/Kim_Painting_Outside_As_Inside_Edge_Guided_Image_Outpainting_via_Bidirectional_WACV_2021_paper.html) [project](https://godgang4885.github.io/Painting_Outside_as_Inside-POAI-/#abstract)
 
 
 Awards
