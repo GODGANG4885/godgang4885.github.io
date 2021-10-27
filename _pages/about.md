@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate student in Vision and Display Systems Lab, Sogang Univ. I do research in computer vision and deep learning. 
+I am currently a Reasearch Engineer at Hanwha AI Research. I do research in computer vision and deep learning. 
 <a href="https://github.com/GODGANG4885/GODGANG4885.github.io/blob/master/_data/cv.pdf.pdf" target="_blank">CV.</a>
                                                                            
 Publications
