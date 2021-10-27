@@ -13,7 +13,7 @@ I am currently a graduate student in Vision and Display Systems Lab, Sogang Univ
                                                                            
 Publications
 ======
-**Image-Adaptive Hint Generation via Vision Transformer for Outpainting**<br/> **Kyunghun Kim\***, Daehyeon Kong\*, Kyeongbo Kong\*, Sung-Jun Min\*, Suk-Ju Kang  <br/> WACV2022 Submitted
+**Image-Adaptive Hint Generation via Vision Transformer for Outpainting**<br/> **Kyunghun Kim\***, Daehyeon Kong\*, Kyeongbo Kong\*, Sung-Jun Min\*, Suk-Ju Kang  <br/> WACV2022 Accepted
 
 
 **Selective Focusing Learning in Conditional GANs**<br/> **Kyunghun Kim**\*, Kyeongbo Kong\*,  Suk-Ju Kang <br/> 
