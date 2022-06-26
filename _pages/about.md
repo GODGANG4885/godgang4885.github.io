@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I am currently a Research Engineer at Hanwha Techwin AI Research. I do research in computer vision and deep learning. 
-<a href="https://github.com/GODGANG4885/GODGANG4885.github.io/blob/master/_data/cv.pdf.pdf" target="_blank">CV.</a>
                                                                            
 Publications
 ======
