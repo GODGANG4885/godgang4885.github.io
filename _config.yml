@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "godgang@sogang.ac.kr"
+    email                : "godroma4885@gmail.com"
   generatedFields:
     date:
       type               : "date"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kyunghun Kim"
   avatar           : "kkh.jpg"
-  bio              : "MS student in Department of Electronic Engineering, Sogang Univ."
+  bio              : "Research Engineer at Hanwha Techwin AI Lab."
 #   location         : "Location"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
